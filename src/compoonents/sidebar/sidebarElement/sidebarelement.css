@@ -1,0 +1,13 @@
+.side-element{
+    font-size: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,.1);
+    cursor: pointer;
+    font-family: poppins,Arial,sans-serif !important;
+    display: block;
+    text-decoration: none;
+    list-style: none;
+    line-height: 1.8;
+    font-weight: 400;
+    font-size: 18px;
+}

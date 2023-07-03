@@ -1,0 +1,28 @@
+.parentContent{
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+    padding-left: 50px;
+    padding-top: 35px;
+}
+.contentHead{
+    color: #000;
+    margin-bottom: 1.5rem!important;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.contentPara{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 400;
+    background: #fafafa;
+    color: gray;
+}

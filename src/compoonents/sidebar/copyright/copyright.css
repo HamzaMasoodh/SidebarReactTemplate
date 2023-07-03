@@ -1,0 +1,23 @@
+.copyHead{
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+
+}
+
+.copy{
+    padding-left: 2rem;
+}
+
+.copyInput{
+    box-sizing: border-box;
+    height: 40px!important;
+    color: #000;
+    font-size: 14px;
+    border-radius: 4px;
+    box-shadow: none!important;
+    border: transparent;
+    width: 90%;
+
+}

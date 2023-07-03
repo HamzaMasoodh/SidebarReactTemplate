@@ -1,0 +1,12 @@
+.subscribe{
+    color: rgba(255,255,255,.5);
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    font-family: poppins,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 400;
+    padding-left: 2rem;
+    text-align:left;
+}
